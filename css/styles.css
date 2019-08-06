@@ -1,0 +1,23 @@
+h1 {
+  background: blue;
+  border: 100px;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-style: oblique;
+  color: purple;
+  visibility:inherit;
+}
+
+ul{
+  border-style: solid;
+  /* border: 100px; */
+  border-left-color: blue;
+  border-right-color: purple;
+
+
+
+
+}
